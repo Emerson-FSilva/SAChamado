@@ -87,7 +87,7 @@ public class Cadastro_Chamados extends javax.swing.JInternalFrame {
 
         jLabel6.setText("Solicitante:");
 
-        jLabel7.setText("Id:");
+        jLabel7.setText("ID:");
 
         jLabel8.setText("Descrição do Chamado:");
 
