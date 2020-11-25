@@ -27,6 +27,7 @@ public class Cadastro_Chamados extends javax.swing.JInternalFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+<<<<<<< HEAD
         btnCadastra = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
         txtTitulo = new javax.swing.JTextField();
@@ -118,10 +119,13 @@ public class Cadastro_Chamados extends javax.swing.JInternalFrame {
         btnCancelar.setText("Cancelar");
         btnCancelar.setPreferredSize(new java.awt.Dimension(87, 32));
 
+=======
+>>>>>>> aba09b4 (Versão 2.0)
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+<<<<<<< HEAD
             .addGroup(layout.createSequentialGroup()
                 .addGap(20, 20, 20)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
@@ -231,6 +235,13 @@ public class Cadastro_Chamados extends javax.swing.JInternalFrame {
                     .addComponent(btnLimpar)
                     .addComponent(btnCancelar, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(27, 27, 27))
+=======
+            .addGap(0, 394, Short.MAX_VALUE)
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 274, Short.MAX_VALUE)
+>>>>>>> aba09b4 (Versão 2.0)
         );
 
         pack();
@@ -238,6 +249,7 @@ public class Cadastro_Chamados extends javax.swing.JInternalFrame {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+<<<<<<< HEAD
     private javax.swing.JButton btnCadastra;
     private javax.swing.JButton btnCancelar;
     private javax.swing.JButton btnLimpar;
@@ -268,5 +280,7 @@ public class Cadastro_Chamados extends javax.swing.JInternalFrame {
     private javax.swing.JTextArea txtSolucao;
     private javax.swing.JTextField txtTecnico;
     private javax.swing.JTextField txtTitulo;
+=======
+>>>>>>> aba09b4 (Versão 2.0)
     // End of variables declaration//GEN-END:variables
 }
