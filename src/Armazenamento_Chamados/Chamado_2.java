@@ -9,6 +9,6 @@ package Armazenamento_Chamados;
  *
  * @author Lucas.A
  */
-public class Chamado2 {
+public class Chamado_2 {
     
 }
